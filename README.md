@@ -1,8 +1,8 @@
 # 📊 **Customer Churn Prediction Model** 
 
-![Customer Churn Prediction](https://via.placeholder.com/800x200.png?text=Customer+Churn+Prediction+Model)  
+![Customer Churn Prediction](https://github.com/user-attachments/assets/17a66874-39e5-45a2-af34-ad909a437935)
 
-This repository contains a **Flask-based web application** that predicts customer churn using a pre-trained machine learning model. The project is developed using **Python** and various data science libraries like **Pandas**, **NumPy**, and **Scikit-learn**.
+This repository contains a **Sales Predictor** that predicts customer churn using a pre-trained machine learning model. The project is developed using **Python** and various data science libraries like **Pandas**, **NumPy**, and **Scikit-learn**.
 
 
 ---
